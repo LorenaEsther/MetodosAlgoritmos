@@ -126,5 +126,9 @@ public class AlgoritmoSeleccion {
     }
         public static void salir() {
             System.out.println("Saliendo del programa, hasta luego!");
+            System.out.println("HOLA A TODOSSSS");
+            System.out.println("HOLA A TODOSSSS");
+            System.out.println("HOLA A TODOSSSS");
+            System.out.println("HOLA A TODOSSSS");
         }
 }
